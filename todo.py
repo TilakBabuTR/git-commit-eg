@@ -15,6 +15,7 @@ class Todo:
 		try:
 			def insert(self):
 				print("Do you have task details?")
+				print("testinggggggg")
 
 				# ID=int(input("task ID: "))
 				# c.execute("SELECT * from todo where taskid= taskid", {'taskid':ID})
